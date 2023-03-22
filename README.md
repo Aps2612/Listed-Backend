@@ -12,7 +12,7 @@ Before you can use the script, you need to configure it with your Gmail API cred
 
 Go to the Google Developers Console.
 Create a new project and give it a name.
-Click on "Enable APIs and Services" and search for "Gmail".
+Click on "Enable APIs and Services" and search for "Gmail".                                                                                                     
 Enable the Gmail API for your project.
 Click on "Create Credentials" and select "OAuth client ID".
 Select "Desktop App" as the application type and give your client ID a name.
